@@ -150,12 +150,7 @@ http://localhost:3000
 
 
 
-Abhishek Patil
-
-
-
-Java Full Stack Developer
-
+Abhishek Narwade
 
 
 GitHub:
